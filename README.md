@@ -64,8 +64,10 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[UnimoParty](https://github.com/jonghyun109/UnimoParty)** | VR 기업 협약 | Unity, C# , Photon PUN2, Firebase ,Confluence  |
-| **[ArenaJjap](https://github.com/jonghyun109/ArenaJjap)** | 실시간 4인 대전 AOS 게임 | Unity, Photon PUN2, Firebase |
-| **[Trails](https://github.com/jonghyun109/Trails)** | 로그라이크 게임 | Unity, C#, Photon Pun2 |
+| **[Arena - 모작](https://github.com/jonghyun109/Arena)** | 실시간 4인 대전 AOS 게임 | Unity, Photon PUN2, Firebase |
+| **[Trails](https://github.com/jonghyun109/Trails)** | 2인 협동게임 | Unity, C#, Photon Pun2 |
+| **[불침번(Vigil)](https://github.com/jonghyun109/Vigil)** | 8번출구Like | Unity, C# |
+| **[Have A Nice Death - 모작](https://github.com/jonghyun109/Have_A_Nice_Death)** | 액션 플랫포머 | Unity, C# |
 
 </div>
 
