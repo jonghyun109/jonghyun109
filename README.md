@@ -39,8 +39,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyun109&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonghyun109&theme=radical)
-
 </div>
 
 <br>
