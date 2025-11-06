@@ -9,6 +9,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-jonghyun109-181717?style=for-the-badge&logo=github)](https://github.com/jonghyun109)
 [![Email](https://img.shields.io/badge/Email-mimj2527@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mimj2527@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-010--2959--1511-00C73C?style=for-the-badge&logo=phone&logoColor=white)](tel:01029591511)
+
 
 </div>
 
@@ -74,11 +76,9 @@
 <div align="center">
 
 ### 💬 Contact Me
-
+[![Phone](https://img.shields.io/badge/Phone-010--2959--1511-00C73C?style=flat-square&logo=phone&logoColor=white)](tel:01029591511)
 [![Email](https://img.shields.io/badge/Email-mimj2527@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mimj2527@gmail.com)
 
 <br>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonghyun109&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 </div>
