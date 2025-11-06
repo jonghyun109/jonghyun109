@@ -3,7 +3,7 @@
 # 안녕하세요! 👋
 ## 게임 개발자 윤종현 입니다.
 
-### 🎮 Unity & C# Developer
+### 🎮 Unity 와 C# 주로 하는 개발자 입니다
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 기술 스택
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🎮 Featured Projects
+## 🎮 프로젝트
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-### 💬 Contact Me
+### 💬 연락처
 [![Phone](https://img.shields.io/badge/Phone-010--2959--1511-00C73C?style=flat-square&logo=phone&logoColor=white)](tel:01029591511)
 [![Email](https://img.shields.io/badge/Email-mimj2527@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mimj2527@gmail.com)
 
