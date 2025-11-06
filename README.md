@@ -63,7 +63,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[UnimoParty](https://github.com/jonghyun109/UnimoParty))** | VR 기업 협약 | Unity, C# , Photon PUN2, Firebase ,Confluence  |
+| **[UnimoParty](https://github.com/jonghyun109/UnimoParty)** | VR 기업 협약 | Unity, C# , Photon PUN2, Firebase ,Confluence  |
 | **[ArenaJjap](https://github.com/jonghyun109/ArenaJjap)** | 실시간 4인 대전 AOS 게임 | Unity, Photon PUN2, Firebase |
 | **[Trails](https://github.com/jonghyun109/Trails)** | 로그라이크 게임 | Unity, C#, Photon Pun2 |
 
