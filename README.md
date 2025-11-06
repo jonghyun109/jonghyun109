@@ -1,7 +1,7 @@
 <div align="center">
 
 # 안녕하세요! 👋
-## 게임 개발자 취준생 윤종현 입니다.
+## 게임 개발자 윤종현 입니다.
 
 ### 🎮 Unity & C# Developer
 
