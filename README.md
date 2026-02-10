@@ -41,19 +41,6 @@
 
 <br>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonghyun109&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyun109&layout=compact&theme=radical)
-
-</div>
-
-<br>
 
 ---
 
