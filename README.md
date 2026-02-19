@@ -56,6 +56,8 @@
 | **[Trails](https://github.com/jonghyun109/Trails)** | 2인 협동게임 | Unity, C#, Photon Pun2 |
 | **[불침번(Vigil)](https://github.com/jonghyun109/Vigil)** | 8번출구Like | Unity, C# |
 | **[Have A Nice Death - 모작](https://github.com/jonghyun109/Have_A_Nice_Death)** | 액션 플랫포머 | Unity, C# |
+| [Private - 네오위즈 공모전] | 네러티브, 시뮬레이션 | Unity, C#, Blender, Notion |
+
 
 </div>
 
