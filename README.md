@@ -23,6 +23,7 @@
 ### 💻 Languages & Engine
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Frostbite](https://img.shields.io/badge/Frostbite_Engine-000000?style=for-the-badge)
 
 ### 🌐 Networking
 ![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white)
